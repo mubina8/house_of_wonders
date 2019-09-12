@@ -1,0 +1,17 @@
+﻿Build started 15-Apr-19 12:35:01 PM.
+     1>Project "C:\Users\Acer\Desktop\how2\house_of_wonders\house_of_wonders.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\house_of_wonders.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         house_of_wonders.vcxproj -> C:\Users\Acer\Desktop\how2\Debug\house_of_wonders.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\house_of_wonders.unsuccessfulbuild".
+         Touching "Debug\house_of_wonders.lastbuildstate".
+     1>Done Building Project "C:\Users\Acer\Desktop\how2\house_of_wonders\house_of_wonders.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.52
